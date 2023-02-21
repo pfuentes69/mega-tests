@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "mega-boba-display"
+		},
+		{
+			"path": "mega-gps-test"
+		},
+		{
+			"path": "mega-hc06-test"
+		},
+		{
+			"path": "mega-irline-test"
+		},
+		{
+			"path": "mega-nokia5110-test"
+		},
+		{
+			"path": "mega-servo-test"
+		},
+		{
+			"path": "mega-blink"
+		},
+		{
+			"path": "mega-template"
+		}
+	]
+}
